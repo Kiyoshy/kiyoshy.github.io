@@ -1,2 +1,2 @@
 # kiyoshy.github.io
-Personal website
+Personal website - Kiyoshy Nakamura
